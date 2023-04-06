@@ -1,0 +1,12 @@
+﻿Прога где "главный" ведет таблицу с данными "подчененных".
+
+1. Login Func
+2. Main window, CRUD func
+Diagrams in folder IMAGES/
+CRUD - create, read, update, delete
+
+
+
+Sql Server component + material design
+..... - link to GitHub project repository
+
